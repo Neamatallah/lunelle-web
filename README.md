@@ -19,10 +19,11 @@ The website focuses on simple care categories for:
 The main goal of this project was to practice building a responsive website using **HTML, CSS, and Bootstrap**, while applying Bootstrap components and responsive utilities in a real project.
 
 ---
+🌐 Live Demo
 
-## 🌐 Live Demo
+<p align="center"> <a href="https://neamatallah.github.io/lunelle-web/"> <img src="https://img.shields.io/badge/🌙%20View%20Lunelle%20Live-8A7470?style=for-the-badge" alt="View Lunelle Live"> </a> </p>
 
-**Live Website:**
+Live Website:
 https://neamatallah.github.io/lunelle-web/
 
 ---
